@@ -7,12 +7,21 @@
 	"items": [
 		
 			{
+				"id": "http://tbc.micro.blog/2025/08/10/i-adopted-the-word-fluffle.html",
+				
+				"content_html": "<p>I adopted the word <a href=\"https://wordnik.com/words/fluffle\">fluffle</a> (Wordnik). The problem with the fediverse is this. The platform-specific features compel me to maintain accounts <a href=\"https://bsky.app/profile/tbc.micro.blog/post/3lw3hixtbdk22\">on Bluesky Social</a> (a walled garden) and <a href=\"https://mindly.social/%40tbc/115007114361994420\">in the generic fediverse</a>, which see. (Click the links.) <a href=\"https://x.com/tbc0/status/1954688966843892035\">And then there&rsquo;s twitter</a>, controlled by <a href=\"https://x.com/elonmusk\">The Mad Genius</a>. #htwoosh</p>\n",
+				"content_text": "I adopted the word [fluffle](https://wordnik.com/words/fluffle) (Wordnik). The problem with the fediverse is this. The platform-specific features compel me to maintain accounts [on Bluesky Social](https://bsky.app/profile/tbc.micro.blog/post/3lw3hixtbdk22) (a walled garden) and [in the generic fediverse](https://mindly.social/%40tbc/115007114361994420), which see. (Click the links.) [And then there's twitter](https://x.com/tbc0/status/1954688966843892035), controlled by [The Mad Genius](https://x.com/elonmusk). #htwoosh\n",
+				"date_published": "2025-08-10T18:06:53-06:00",
+				"url": "https://timchambersusa.com/2025/08/10/i-adopted-the-word-fluffle.html"
+			},
+			{
 				"id": "http://tbc.micro.blog/2025/06/08/its-nife-not-knife-nives.html",
 				
-				"content_html": "<p>It&rsquo;s nife not knife. Nives not knives. You have been deceived in order to force you to conform. Swallow the red pill! #bcf6221 Original at minifeed.org/tim/2387</p>\n",
-				"content_text": "It's nife not knife. Nives not knives. You have been deceived in order to force you to conform. Swallow the red pill! #bcf6221 Original at minifeed.org/tim/2387\n",
+				"content_html": "<p>It&rsquo;s nife not knife. Nives not knives. You have been deceived in order to force you to conform. Swallow the red pill! #bcf6221 Original at <a href=\"https://minifeed.org/tim/2387\">minifeed.org/tim/2387</a></p>\n",
+				"content_text": "It's nife not knife. Nives not knives. You have been deceived in order to force you to conform. Swallow the red pill! #bcf6221 Original at [minifeed.org/tim/2387](https://minifeed.org/tim/2387)\n",
 				"date_published": "2025-06-08T13:27:02-06:00",
-				"url": "https://timchambersusa.com/2025/06/08/its-nife-not-knife-nives.html"
+				"url": "https://timchambersusa.com/2025/06/08/its-nife-not-knife-nives.html",
+				"tags": ["culture","logophilia"]
 			},
 			{
 				"id": "http://tbc.micro.blog/2025/03/24/books-of-the-bible.html",
