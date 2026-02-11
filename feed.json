@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://tbc.micro.blog/2026/02/11/my-favorite-super-bowl-ad.html",
+				
+				"content_html": "<p>My favorite Super Bowl ad. <a href=\"https://youtu.be/l0-xrGol9MQ\">Is there more to life than more? (on YouTube)</a></p>\n",
+				"content_text": "My favorite Super Bowl ad. [Is there more to life than more? (on YouTube)](https://youtu.be/l0-xrGol9MQ)\n",
+				"date_published": "2026-02-11T08:02:44-06:00",
+				"url": "https://timchambersusa.com/2026/02/11/my-favorite-super-bowl-ad.html"
+			},
+			{
 				"id": "http://tbc.micro.blog/2026/02/09/i-just-asked-claude-haiku.html",
 				
 				"content_html": "<p>I just asked Claude Haiku 4.5, Sonnet 4.5, and Opus 4.6 the same cryptic question: What is east of the sun and west of the moon? Try it on a model I didn&rsquo;t mention, and tell me what you get out of the exercise. It sheds light on the synthetic intelligence of each of the LLMs.</p>\n",
