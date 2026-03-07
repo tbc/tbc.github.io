@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://tbc.micro.blog/2026/03/07/its-gonna-take-more-than.html",
+				
+				"content_html": "<p>It&rsquo;s gonna take more than a literal day to heal the world. But <em>this is the day</em>. <strong>Today</strong>.</p>\n",
+				"content_text": "It's gonna take more than a literal day to heal the world. But _this is the day_. **Today**.\n",
+				"date_published": "2026-03-07T05:47:53-06:00",
+				"url": "https://timchambersusa.com/2026/03/07/its-gonna-take-more-than.html"
+			},
+			{
 				"id": "http://tbc.micro.blog/2026/03/05/decades-ago-i-started-writing.html",
 				
 				"content_html": "<p>Decades ago I started writing a novel titled, <em>The Day The Sick Were Healed</em>. This is the first day of the rest of my life. I am living my own novel in real time. I have become a man of infinite jest. This is my first sunrise as a professional jester.</p>\n",
